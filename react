@@ -1,1 +1,8 @@
+[React] Global State 관리
+
+local state
+React에서의 local state는 props와 state로 나뉜다.
+props는 상속받은 상태에 대한 관리이고, state는 component가 생성한 상태에 대한 관리이다.
+
+
 
